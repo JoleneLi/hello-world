@@ -1,0 +1,12 @@
+a {
+    text-decoration: none;
+    background-color: #c8c8a9;
+    color:#e94e77;
+    font-size:75px;
+    font-family: "Arial";
+    cursor: pointer;
+  }
+  
+  a:hover{
+    color: blue;
+  }
