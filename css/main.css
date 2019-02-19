@@ -1,12 +1,46 @@
-a {
-    text-decoration: none;
-    background-color: #c8c8a9;
-    color:#e94e77;
-    font-size:75px;
-    font-family: "Arial";
-    cursor: pointer;
+html{
+    background-color: #F0E5DE;
+    font-size: 12 px;
+    font-family:'Indie Flower', cursive;
+    
   }
   
+  body{
+    width: 600px;
+    margin: 5px auto;
+    background-color: #D9D4CF;
+    padding: 10px 30px 30px 30px;
+    
+  }
+  
+  
+  
+  h1 {
+    margin: 0;
+    padding: 20px 0;    
+    color: #534847;
+    text-shadow: 3px 3px 1px black;
+    font-size: 60px;
+    text-align: center;
+  }
+  
+  
+  p, li{
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+  
+  img {
+    display: block;
+    margin: 0 auto;
+    width: 250px;
+    padding: 50px 0 0 0;
+  }
+  
+  a{
+    text-decoration:none;
+  }
   a:hover{
     color: blue;
   }
